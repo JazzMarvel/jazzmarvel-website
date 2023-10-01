@@ -1,0 +1,14 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>Jazz Marvel kinyozi Homepage</title>
+<meta name="description content="Not just the haircut we inspire identity">
+</head>
+<body> 
+<img src="875-8751385_clip-art-barbearia-masculino-logotipo-png-male-barber.png" width="400" height="122">
+<h1>Jazz Marvel Kinyozi </h1>
+<h2>Welcome For the Best cuts</h2>
+<p><em><b>Jazz Marvel Kinyozi</em></b> is a barber shop shop located in Webuye(Lions) we have the best service in town and we deliver to our client satisfaction we are opened from 8am to 7pm monday to saturday.</p>
+<p>Not just the haircut we inspire identity.</p>
+</body>
+</html>
